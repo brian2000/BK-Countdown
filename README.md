@@ -1,4 +1,5 @@
-Super light-weight fully-customizable Javascript Countdown for jQuery
+Super light-weight fully-customizable Javascript Countdown for jQuery.
+
 BK Countdown, a light-weight, easy to use, fully customizable javascript countdown class for jQuery! 
 Here’s a list of what it can do. 
 
